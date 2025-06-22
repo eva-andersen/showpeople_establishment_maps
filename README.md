@@ -1,0 +1,1 @@
+Different html maps with establishments (cafés, hotels, restaurants) that showpeople in the 19th and early 20th centuries likely visited. Based on the "maisons recommandée" section in the journal Comète Belge (a periodical for showpeople)
